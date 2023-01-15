@@ -7,7 +7,7 @@ This is a code repository of a JS based ChatGPT web app. This application is dep
 3. OpenAI
 
 ### Screenshot
-![image](https://github.com/zhenyu92/chatGPT/blob/main/screenshot.PNG)
+![image](https://github.com/zhenyu92/chatGPT/blob/main/screenshot.JPG)
 
 ### Credits
 This project is a part of the learning series delivered by [JavaScript Mastery](https://github.com/adrianhajdin).
