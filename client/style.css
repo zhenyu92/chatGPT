@@ -56,7 +56,7 @@ body {
 .chat {
   width: 100%;
   max-width: 1280px;
-  height: 100px;
+  margin-bottom: 50px;
   margin: 0 auto;
 
   display: flex;
