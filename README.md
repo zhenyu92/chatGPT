@@ -1,4 +1,4 @@
-##  App
+## JS based ChatGPT Web App
 This is a code repository of a JS based ChatGPT web app. This application is deployed and currently hosted [here](https://derrick-chatgpt.netlify.app/).
 
 ### Key Stacks
